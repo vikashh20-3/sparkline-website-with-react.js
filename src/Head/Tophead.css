@@ -1,0 +1,115 @@
+.main {
+    background-color: #2e3751;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    min-width: 1200px;
+}
+
+.slt {
+    margin-left: 1%;
+    border: transparent;
+}
+option{
+    background-color:#272f45;
+}
+
+.slt select {
+    color: white;
+    margin-left: 4%;
+    background: transparent;
+    border: transparent;
+    font-size: 14px;
+
+}
+
+.contact div {
+    color: white;
+    margin: 0px 10px;
+}
+
+.contact {
+    margin-left: 10%;
+    display: flex;
+    font-weight: 600;
+    height: 45px;
+    align-items: center;
+    font-size: 14px;
+    color: #ffff;
+    background-color: #272f45;
+
+}
+
+.contact i {
+
+    color: rgb(255, 165, 6);
+    cursor: pointer;
+}
+
+.icn {
+    color: white;
+    margin-left: 20px;
+}
+
+.icn i {
+    padding: 0px 5px;
+
+}
+
+.icn i:hover {
+    color: rgb(255, 165, 6);
+}
+
+.txt_1 {
+    color: white;
+}
+
+.navright {
+    line-height: 45px;
+    display: flex;
+    float: right;
+    /* align-items: center; */
+    padding: 0px 5px;
+    margin-left: 15%;
+    margin-top: 0px;
+}
+
+.btn {
+    height: 45px;
+    border: none;
+    margin: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.btn button {
+    border: none;
+    height: 45px;
+    margin-left: 10px;
+    width: 160px;
+    font-size: 14px;
+    line-height: 45px;
+    padding: 0px 13px;
+    margin-top: 0px;
+    background-color: rgb(82, 190, 130);
+    text-transform: uppercase;
+    font-weight: 599;
+}
+
+.btn button:hover {
+    background-color: rgb(255, 165, 6);
+}
+
+.txt_1 p {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 45px;
+    display: flex;
+    align-items: center;
+    margin: 4px;
+}
+
+.btn button span {
+    margin-right: 4px;
+}

@@ -1,0 +1,32 @@
+.f12{
+    /* background-color: red; */
+    /* background-image: src="./footerimage.jpg"; */
+    /* <img src="./footerimage.jpg"></img> */
+    background-image:"url('https://images.unsplash.com/photo-1587309492480-eae85a198e08?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fHRlYW18ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60')";
+    
+    /* background-color: black; */
+    /* color: aliceblue; */
+    border: 3px solid red;
+    height: 50vh;
+
+    
+}
+.l_33{
+    height: 30vh;
+    width: 40%;
+    float: right;
+    margin: 55px;
+    text-align: center;
+    border: 2px solid white;
+
+}
+.dtl{
+    display: inline-block;
+    width: 40%;
+    border: 1px solid red;
+    text-align: center;
+    margin: 15px;
+}
+.l_3323{
+    border: 3px solid  red;
+}
